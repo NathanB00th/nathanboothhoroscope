@@ -1,0 +1,22 @@
+.words {
+    font-size: 40px;
+    font-family: "Baskerville";
+    color: indigo;
+}
+
+body {
+    text-align: center;
+    background-color: goldenrod;
+}
+
+h1 {
+    font-size: 70px;
+    font-family: "Baskerville Old Face";
+    color: white;
+}
+
+h2 {
+    font-size: 25px;
+    font-family: "Baskerville Old Face";
+    color: white;
+}
